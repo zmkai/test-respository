@@ -1,0 +1,3 @@
+# test-respository
+git测试仓库
+这是一个为了测试IDEA的git插件而设置的一个git测试仓库
